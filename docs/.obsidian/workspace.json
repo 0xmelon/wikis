@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/git/command.md",
+                "file": "workflow/git/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/git/command.md",
+                "file": "workflow/git/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/git/command.md",
+                "file": "workflow/git/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/git/command.md"
+                "file": "workflow/git/index.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "b0d3fa9362f88b32",
   "lastOpenFiles": [
+    "workflow/git/command.md",
+    "workflow/git/index.md",
     "pit/h5.md",
     "workflow/computer-network/network.md",
     "workflow/css/tricks.md",
@@ -191,8 +193,6 @@
     "fe/javascript/clone.md",
     "fe/html/index.md",
     "fe/es6/index.md",
-    "fe/concept/page-rendering.md",
-    "fe/concept/module.md",
     "未命名.canvas"
   ]
 }
