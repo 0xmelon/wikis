@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "workflow/git/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ad192a026c14b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "workflow/git/问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,13 +158,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b0d3fa9362f88b32",
+  "active": "4ad192a026c14b77",
   "lastOpenFiles": [
     "workflow/git/index.md",
+    "workflow/git/command.md",
     "workflow/git/问题.md",
     "workflow/git/问题/遇到的问题.md",
     "workflow/git/问题",
-    "workflow/git/command.md",
     "pit/h5.md",
     "workflow/computer-network/network.md",
     "workflow/css/tricks.md",

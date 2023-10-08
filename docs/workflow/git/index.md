@@ -12,7 +12,7 @@
 - 下载相关
   - [Windows 版下载镜像](https://npmmirror.com/mirrors/git-for-windows/)
   - [使用 jsdelivr 加速 Github 仓库资源](https://github.com/maomao1996/daily-notes/issues/7)
-
++ [github上传时候的网络问题](./问题#_1-网络问题出现不能提交)
 ## commit 常用 type
 
 | type     | 含义                                   |
