@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "fd590441d5840da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7973e7b49cfac2c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d3fa9362f88b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pit/h5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "337c9498b3f55123",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9a830475bfb5a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e885ea18de2ca970",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a3550e159d2bbe9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d79ca92c68ace06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35df86283789a1c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "180c6d2fc3a33b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c37b92b58646695d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pit/h5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10320854f32291e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pit/h5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c01b181b8801ed15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a862c01b1d510d40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pit/h5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c37b92b58646695d",
+  "lastOpenFiles": [
+    "workflow/computer-network/network.md",
+    "workflow/css/tricks.md",
+    "workflow/css/spec.md",
+    "workflow/computer-focus/测试.md",
+    "workflow/computer-focus/2313.md",
+    "workflow/computer-focus/计算机组成.md",
+    "workflow/computer-focus",
+    "workflow/computer-组成",
+    "workflow/computer-network/index.md",
+    "pit/h5.md",
+    "workflow/computer-network/计算机网络.md",
+    "workflow/computer-network",
+    "weekly/2023/的风格萨格.md",
+    "weekly/2023/2023年第1周.md",
+    "weekly/2023/2023年第2周.md",
+    "pit/pc.md",
+    "nav/index.scss",
+    "nav/data.ts",
+    "nav",
+    "weekly/2023",
+    "fe/css/index.md",
+    "fe/javascript/images/prototype/__proto__.png",
+    "fe/javascript/images/prototype/prototypes-2.png",
+    "fe/javascript/images/prototype/prototypes-1.jpg",
+    "fe/javascript/images/prototype/prototype.png",
+    "fe/javascript/images/prototype/prototype-chain.png",
+    "fe/javascript/images/prototype/constructor.png",
+    "fe/network/images/tcp-three-handshakes.png",
+    "fe/network/images/tcp-four-waves.png",
+    "fe/javascript/images/prototype",
+    "fe/javascript/images/prototypal-inheritance.png",
+    "fe/javascript/images/parasitic-combination-inheritance.png",
+    "fe/javascript/code/typeof.js",
+    "fe/javascript/code/toString.js",
+    "fe/typescript/base.md",
+    "fe/network/tcp.md",
+    "fe/network/http.md",
+    "fe/javascript/types.md",
+    "fe/javascript/prototype.md",
+    "fe/javascript/inherit.md",
+    "fe/javascript/conversions.md",
+    "fe/javascript/clone.md",
+    "fe/html/index.md",
+    "fe/es6/index.md",
+    "fe/concept/page-rendering.md",
+    "fe/concept/module.md",
+    "未命名.canvas"
+  ]
+}
