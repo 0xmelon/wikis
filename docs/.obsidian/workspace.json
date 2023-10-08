@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/git/index.md",
+                "file": "workflow/git/问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/git/index.md",
+                "file": "workflow/git/问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/git/index.md",
+                "file": "workflow/git/问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/git/index.md"
+                "file": "workflow/git/问题.md"
               }
             }
           }
@@ -147,8 +147,11 @@
   },
   "active": "b0d3fa9362f88b32",
   "lastOpenFiles": [
-    "workflow/git/command.md",
     "workflow/git/index.md",
+    "workflow/git/问题.md",
+    "workflow/git/问题/遇到的问题.md",
+    "workflow/git/问题",
+    "workflow/git/command.md",
     "pit/h5.md",
     "workflow/computer-network/network.md",
     "workflow/css/tricks.md",
@@ -182,7 +185,6 @@
     "fe/javascript/images/prototypal-inheritance.png",
     "fe/javascript/images/parasitic-combination-inheritance.png",
     "fe/javascript/code/typeof.js",
-    "fe/javascript/code/toString.js",
     "fe/typescript/base.md",
     "fe/network/tcp.md",
     "fe/network/http.md",
@@ -191,8 +193,6 @@
     "fe/javascript/inherit.md",
     "fe/javascript/conversions.md",
     "fe/javascript/clone.md",
-    "fe/html/index.md",
-    "fe/es6/index.md",
     "未命名.canvas"
   ]
 }

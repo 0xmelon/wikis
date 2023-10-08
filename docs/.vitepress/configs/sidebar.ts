@@ -11,9 +11,6 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
     path.resolve(__dirname, "../../workflow/css"),
 
   ).concat(sidebarAuto(
-    path.resolve(__dirname, "../../workflow/git"),
-
-  )).concat(sidebarAuto(
     path.resolve(__dirname, "../../workflow/computer-network"),"计算机网络"
     
   )).concat(sidebarAuto(
