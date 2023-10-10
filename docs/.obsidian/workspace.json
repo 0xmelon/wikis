@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a820169750ed1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow/computer-network/network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,10 +171,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ad192a026c14b77",
+  "active": "7a820169750ed1bc",
   "lastOpenFiles": [
-    "workflow/computer-network/1. 什么是Internet.md",
+    "workflow/computer-network/3.传输层.md",
     "workflow/computer-network/network.md",
+    "workflow/computer-network/2.应用层.md",
+    "workflow/computer-network/1. 什么是Internet.md",
     "workflow/git/问题.md",
     "workflow/git/command.md",
     "workflow/git/index.md",
@@ -205,8 +219,6 @@
     "fe/network/http.md",
     "fe/javascript/types.md",
     "fe/javascript/prototype.md",
-    "fe/javascript/inherit.md",
-    "fe/javascript/conversions.md",
     "未命名.canvas"
   ]
 }
