@@ -71,11 +71,11 @@ function sidebarAuto(srcPath, title) {
 }
 
 
-// let a = sidebarAuto(path.resolve(__dirname, "../workflow/css"),
-//   "JavaScript"
-// )
-// console.log(a.forEach((value) => {
-//   console.log(value)
-// }))
+let a = sidebarAuto(path.resolve(__dirname, "../workflow/css"),
+  "JavaScript"
+)
+console.log(a.forEach((value) => {
+  console.log(value)
+}))
 
 export default sidebarAuto;
