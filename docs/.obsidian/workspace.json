@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/computer-network/1. 什么是Internet.md",
+                "file": "workflow/computer-network/network.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/computer-network/1. 什么是Internet.md",
+                "file": "workflow/computer-network/network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/computer-network/1. 什么是Internet.md",
+                "file": "workflow/computer-network/network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/computer-network/1. 什么是Internet.md"
+                "file": "workflow/computer-network/network.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "4ad192a026c14b77",
   "lastOpenFiles": [
-    "workflow/computer-network/network.md",
     "workflow/computer-network/1. 什么是Internet.md",
+    "workflow/computer-network/network.md",
     "workflow/git/问题.md",
     "workflow/git/command.md",
     "workflow/git/index.md",
