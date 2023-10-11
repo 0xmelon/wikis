@@ -7,13 +7,10 @@ export const sidebar: DefaultTheme.Config['sidebar'] = {
     path.resolve(__dirname,"../../weekly/2023"),"2023年周报"
   ),
 
-  "/workflow/": sidebarAuto(
-    path.resolve(__dirname, "../../workflow/css"),
-
-  ).concat(sidebarAuto(
+  "/workflow/":sidebarAuto(
     path.resolve(__dirname, "../../workflow/computer-network"),"计算机网络"
     
-  )).concat(sidebarAuto(
+  ).concat(sidebarAuto(
     path.resolve(__dirname, "../../workflow/computer-focus"),"计算机组成原理"
     
   )).concat(sidebarAuto(
