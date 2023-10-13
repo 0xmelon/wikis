@@ -1,4 +1,5 @@
 ## Docker运行
+### 服务端
 首先是服务器先运行下面的脚本
 ```shell
 docker run -d \
@@ -20,3 +21,7 @@ docker run -d \
   weejewel/wg-easy
 ```
 再在浏览器打开`服务器的公网IP：51821`即可配置
+![[Pasted image 20231013221939.png]]
+### 客户端
+进入下面这个地址下载客户端
+[https://www.wireguard.com/install/]()
