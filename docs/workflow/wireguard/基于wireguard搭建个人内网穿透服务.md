@@ -1,4 +1,5 @@
 ## Docker运行
+首先是服务器先运行下面的脚本
 ```shell
 docker run -d \
   --name=wg-easy \
@@ -18,3 +19,4 @@ docker run -d \
   --restart unless-stopped \
   weejewel/wg-easy
 ```
+再在浏览器打开`服务器的公网IP：51821`即可配置
