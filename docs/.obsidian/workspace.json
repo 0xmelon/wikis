@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/computer-network/6.网络安全.md",
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/computer-network/6.网络安全.md",
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/computer-network/6.网络安全.md",
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/computer-network/6.网络安全.md"
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md"
               }
             }
           }
@@ -173,12 +173,14 @@
   },
   "active": "7a820169750ed1bc",
   "lastOpenFiles": [
+    "workflow/computer-network/6.网络安全.md",
+    "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+    "workflow/wireguard",
     "workflow/computer-network/5.链路层和局域网.md",
     "workflow/computer-network/4.网络层.md",
     "workflow/computer-network/3.传输层.md",
     "workflow/computer-network/2.应用层.md",
     "workflow/computer-network/1. 什么是Internet.md",
-    "workflow/computer-network/6.网络安全.md",
     "workflow/git/问题.md",
     "workflow/git/command.md",
     "workflow/git/index.md",
@@ -215,10 +217,8 @@
     "fe/javascript/images/prototype",
     "fe/javascript/images/prototypal-inheritance.png",
     "fe/javascript/images/parasitic-combination-inheritance.png",
-    "fe/javascript/code/typeof.js",
     "fe/typescript/base.md",
     "fe/network/tcp.md",
-    "fe/network/http.md",
     "未命名.canvas"
   ]
 }
