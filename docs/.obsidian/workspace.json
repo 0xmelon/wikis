@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "file": "workflow/soft-exam/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "file": "workflow/soft-exam/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "file": "workflow/soft-exam/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md"
+                "file": "workflow/soft-exam/未命名.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "7a820169750ed1bc",
   "lastOpenFiles": [
-    "workflow/wireguard/未命名.md",
+    "workflow/computer-network/1. 什么是Internet.md",
+    "workflow/soft-exam/未命名.md",
+    "workflow/soft-exam",
     "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+    "workflow/wireguard/未命名.md",
     "Pasted image 20231013221939.png",
     "workflow/computer-network/6.网络安全.md",
     "workflow/wireguard",
@@ -182,7 +185,6 @@
     "workflow/computer-network/4.网络层.md",
     "workflow/computer-network/3.传输层.md",
     "workflow/computer-network/2.应用层.md",
-    "workflow/computer-network/1. 什么是Internet.md",
     "workflow/git/问题.md",
     "workflow/git/command.md",
     "workflow/git/index.md",
@@ -216,9 +218,7 @@
     "fe/javascript/images/prototype/constructor.png",
     "fe/network/images/tcp-three-handshakes.png",
     "fe/network/images/tcp-four-waves.png",
-    "fe/javascript/images/prototype",
     "fe/javascript/images/prototypal-inheritance.png",
-    "fe/typescript/base.md",
     "未命名.canvas"
   ]
 }
