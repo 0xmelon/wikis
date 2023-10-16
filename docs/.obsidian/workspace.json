@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/soft-exam/未命名.md",
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59d4f8280b9ffb2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "848c0a70b0033818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#目录",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/soft-exam/未命名.md",
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/soft-exam/未命名.md",
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,12 +174,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/soft-exam/未命名.md"
+                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,14 +194,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7a820169750ed1bc",
+  "active": "848c0a70b0033818",
   "lastOpenFiles": [
-    "workflow/computer-network/1. 什么是Internet.md",
-    "workflow/soft-exam/未命名.md",
-    "workflow/soft-exam",
-    "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
-    "workflow/wireguard/未命名.md",
     "Pasted image 20231013221939.png",
+    "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+    "workflow/computer-network/index.md",
+    "workflow/soft-exam/未命名.md",
+    "weekly/2023/的风格萨格.md",
+    "weekly/2023/2023年第2周.md",
+    "weekly/2023/2023年第1周.md",
+    "workflow/computer-network/1. 什么是Internet.md",
+    "workflow/soft-exam",
+    "workflow/wireguard/未命名.md",
     "workflow/computer-network/6.网络安全.md",
     "workflow/wireguard",
     "workflow/computer-network/5.链路层和局域网.md",
@@ -198,18 +225,13 @@
     "workflow/computer-focus/计算机组成.md",
     "workflow/computer-focus",
     "workflow/computer-组成",
-    "workflow/computer-network/index.md",
     "workflow/computer-network/计算机网络.md",
     "workflow/computer-network",
-    "weekly/2023/的风格萨格.md",
-    "weekly/2023/2023年第1周.md",
-    "weekly/2023/2023年第2周.md",
     "pit/pc.md",
     "nav/index.scss",
     "nav/data.ts",
     "nav",
     "weekly/2023",
-    "fe/css/index.md",
     "fe/javascript/images/prototype/__proto__.png",
     "fe/javascript/images/prototype/prototypes-2.png",
     "fe/javascript/images/prototype/prototypes-1.jpg",

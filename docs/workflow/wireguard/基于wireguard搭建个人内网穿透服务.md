@@ -21,7 +21,8 @@ docker run -d \
   weejewel/wg-easy
 ```
 再在浏览器打开`服务器的公网IP：51821`即可配置
-![[Pasted image 20231013221939.png]]
+
+![](https://cdn.jsdelivr.net/gh/0xmelon/picgohub@main/imgs/Pasted%20image%2020231013221939.png)
 ### 客户端
 进入下面这个地址下载客户端
 [https://www.wireguard.com/install/]()
