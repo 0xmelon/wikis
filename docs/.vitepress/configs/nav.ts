@@ -14,34 +14,14 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: 'Workflow',
     items: [
       {
-        text: '常用工具/方法',
+        text: '基础知识',
         items: [
-          { text: '工具库整理', link: '/workflow/utils/library' },
-          { text: '常用正则整理', link: '/workflow/utils/regexp' },
-          { text: '常用方法整理', link: '/workflow/utils/function' }
+          { text: '计算机网络', link: '/workflow/computer-network/' },
+          { text: '软考网络知识', link: '/workflow/soft-exam/' },
+          { text: '计算机组成原理', link: '/workflow/computer-principles/' },
+          { text: '操作系统', link: '/workflow/sass/' }
         ]
       },
-      {
-        text: 'CSS 相关',
-        items: [
-          { text: 'CSS 语法', link: '/workflow/css/spec' },
-          { text: 'CSS 奇淫技巧', link: '/workflow/css/tricks' },
-          { text: 'Sass 常用技巧', link: '/workflow/sass/' }
-        ]
-      },
-      {
-        text: 'Vue 小技巧',
-        link: '/workflow/vue/'
-      },
-      { text: 'npm 常用命令', link: '/workflow/node/npm' },
-      // {
-      //   text: '终端相关',
-      //   items: [
-      { text: 'Zsh 配置', link: '/workflow/terminal/zsh' },
-      { text: '命令行工具', link: '/workflow/terminal/toolkit' },
-      { text: 'Shell 命令', link: '/workflow/terminal/shell' },
-      //   ]
-      // },
       { text: 'Git 相关技巧', link: '/workflow/git/' },
       { text: 'Git 命令清单', link: '/workflow/git/command' }
     ],
@@ -68,18 +48,9 @@ export const nav: DefaultTheme.Config['nav'] = [
     activeMatch: '^/efficiency'
   },
   {
-    text: '茂茂',
+    text: 'Xmelon',
     items: [
-      { text: '个人主页', link: 'https://home.xmelon.cafe' },
-      {
-        text: '日常笔记',
-        link: 'https://github.com/maomao1996/daily-notes'
-      },
-      { text: 'mmPlayer', link: 'https://netease-music.fe-mm.com' },
-      {
-        text: '油猴脚本',
-        link: 'https://github.com/maomao1996/tampermonkey-scripts'
-      }
+      { text: '个人主页', link: 'https://home.xmelon.cafe' }
     ]
   }
 ]
