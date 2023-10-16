@@ -1,7 +1,8 @@
 {
-  "accentColor": "#4c00ff",
+  "accentColor": "#00b3ff",
   "monospaceFontFamily": "Consolas",
-  "textFontFamily": "Inter",
+  "textFontFamily": "Consolas",
   "translucency": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": "Consolas"
 }
