@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7973e7b49cfac2c7",
+        "id": "1ea976d98eb876ed",
         "type": "tabs",
         "children": [
           {
-            "id": "b0d3fa9362f88b32",
+            "id": "745d3603751b24f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/git/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ad192a026c14b77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow/computer-network/6.网络安全.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a820169750ed1bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59d4f8280b9ffb2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "848c0a70b0033818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "file": "workflow/soft-exam/1.网络体系结构.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "35df86283789a1c0",
@@ -134,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "file": "workflow/soft-exam/1.网络体系结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+                "file": "workflow/soft-exam/1.网络体系结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md"
+                "file": "workflow/soft-exam/1.网络体系结构.md"
               }
             }
           }
@@ -182,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,19 +147,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "848c0a70b0033818",
+  "active": "745d3603751b24f2",
   "lastOpenFiles": [
-    "Pasted image 20231013221939.png",
+    "workflow/soft-exam/1.网络体系结构.md",
     "workflow/wireguard/基于wireguard搭建个人内网穿透服务.md",
+    "workflow/git/index.md",
+    "workflow/computer-network/6.网络安全.md",
+    "Pasted image 20231013221939.png",
     "workflow/computer-network/index.md",
-    "workflow/soft-exam/未命名.md",
     "weekly/2023/的风格萨格.md",
     "weekly/2023/2023年第2周.md",
     "weekly/2023/2023年第1周.md",
     "workflow/computer-network/1. 什么是Internet.md",
     "workflow/soft-exam",
     "workflow/wireguard/未命名.md",
-    "workflow/computer-network/6.网络安全.md",
     "workflow/wireguard",
     "workflow/computer-network/5.链路层和局域网.md",
     "workflow/computer-network/4.网络层.md",
@@ -214,7 +168,6 @@
     "workflow/computer-network/2.应用层.md",
     "workflow/git/问题.md",
     "workflow/git/command.md",
-    "workflow/git/index.md",
     "workflow/git/问题/遇到的问题.md",
     "workflow/git/问题",
     "pit/h5.md",
